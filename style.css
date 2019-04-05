@@ -1,6 +1,7 @@
 .n{
-	 font-size: 119%;
-	    margin-left:19%;
+	     font-weight: 600;
+    font-size: 135%;
+    margin-left: 19%;
 }
 
 .m{
@@ -11,6 +12,7 @@
 }
 
 .sep{
+	    font-weight: 900;
 	 border-color:red;
 	border-style:solid;
     margin-left:19%;
