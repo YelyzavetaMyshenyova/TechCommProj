@@ -1,12 +1,18 @@
 .m{
     margin-left:16%;
     margin-right:16%;
+	font-size: 110%;
+	    font-family: 'Alike', serif;
 }
 		
 #res{
 	
 }
 
+.first{
+		display: inline-block;
+	    margin-left:16%;
+}
 .sl{
 	display: inline-block;
 }
