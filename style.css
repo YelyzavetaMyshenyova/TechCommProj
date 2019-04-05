@@ -1,5 +1,6 @@
 .n{
 	 font-size: 119%;
+	    margin-left:19%;
 }
 
 .m{
@@ -26,6 +27,7 @@
 .first{
 		display: inline-block;
 	    margin-left:19%;
+	margin-right:3%;
 }
 .sl{
 	display: inline-block;
