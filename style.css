@@ -1,17 +1,27 @@
 .m{
-    margin-left:16%;
+    margin-left:19%;
     margin-right:16%;
-	font-size: 110%;
-	    font-family: 'Alike', serif;
+    font-size: 104%;
+    font-family: 'Alike', serif;
 }
-		
+
+.sep{
+	 border-color:red;
+	border-style:solid;
+    margin-left:19%;
+
+    margin-right:16%;
+    font-size: 114%;
+    font-family: 'Alike', serif;
+	padding:1%;
+}
 #res{
 	
 }
 
 .first{
 		display: inline-block;
-	    margin-left:16%;
+	    margin-left:19%;
 }
 .sl{
 	display: inline-block;
@@ -31,7 +41,7 @@ margin-bottom:3%;
 .resumeintro{
     font-family: Georgia;
     margin-top:4%;
-    margin-left:16%;
+    margin-left:14%;
     font-size: 150%;
 }
 
